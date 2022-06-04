@@ -1,4 +1,6 @@
 
+[![Header]([https://tinyurl.com/2j2cymer/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/diaz-claudia/)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="30px" width="30px">
 
 <!--
