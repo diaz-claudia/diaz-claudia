@@ -1,8 +1,8 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="30px" width="30px">
-#I'm Claudia Diaz
-#a Full Stack Software Engineer & Business Consultant
+#**I'm Claudia Diaz**
+#**a Full Stack Software Engineer & Business Consultant**
 
 Being resourceful when resources are scarce has been my life-long specialty. I am a first-generation professional who went from South Central LA to Berkeley-Haas to the Tech start-up scene.
 
