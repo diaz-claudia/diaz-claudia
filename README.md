@@ -12,11 +12,4 @@ I have worked with jQuery and React.js ES6 for front-end JavaScript frameworks, 
 
 Every challenge I come across is an opportunity for growth, and programming happens to be an excellent source.
 
-You can find me on [![LinkedIn][2.2]][2].
-
-
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[2]: (https://www.linkedin.com/in/diaz-claudia/)
+You can find me on <a href="https://www.linkedin.com/in/diaz-claudia/"><b>LinkedIn</b></a>
