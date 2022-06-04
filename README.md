@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="15px" width="15px">
 
 <!--
 **diaz-claudia/diaz-claudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
