@@ -6,7 +6,7 @@
 
 Being resourceful when resources are scarce has been my life-long specialty. I am a first-generation professional who went from South Central LA to Berkeley-Haas to the Tech start-up scene.
 
-I enjoy building and creating new and interesting, highly-scalable applications.** Languages that I am familiar with include: C#, JavaScript, and T-SQL.**
+I enjoy building and creating new and interesting, highly-scalable applications.<b>Languages that I am familiar with include: C#, JavaScript, and T-SQL.</b>
 
 I have worked with jQuery and React.js ES6 for front-end JavaScript frameworks, ASP.NET Core 6.0 in C# for server development. I am familiar with MS SQL Server (SSMS )for backend database design and structuring. I have worked in an agile / SCRUM environment with daily stand-up, and code review.
 
