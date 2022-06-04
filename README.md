@@ -12,7 +12,7 @@ I have worked with jQuery and React.js ES6 for front-end JavaScript frameworks, 
 
 Every challenge I come across is an opportunity for growth, and programming happens to be an excellent source.
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][2].
 
 
 
